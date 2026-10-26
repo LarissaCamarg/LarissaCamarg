@@ -22,7 +22,7 @@ Estudante de **Ciência da Computação**, atualmente no **2º semestre** e esta
 
 <div>
   <img src="https://skillicons.dev/icons?i=python,c,js,html,css" height="48" alt="Python, C, JavaScript, HTML e CSS">
-  <img src="assets/sql-icon.svg" height="48" alt="SQL" title="SQL">
+  <img src="- sql-icon.svg" height="48" alt="SQL" title="SQL">
 </div>
 
 ### 🚀 Projetos
