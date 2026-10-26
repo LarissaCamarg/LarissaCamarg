@@ -22,7 +22,15 @@ Estudante de **Ciência da Computação**, atualmente no **2º semestre** e esta
 
 <div>
   <img src="https://skillicons.dev/icons?i=python,c,js,html,css" height="48" alt="Python, C, JavaScript, HTML e CSS">
-  <img src="- sql-icon.svg" height="48" alt="SQL" title="SQL">
+  <img src="sql-icon.svg" height="48" alt="SQL" title="SQL">
+</div>
+
+### 📬 Contato
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/larissacc"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:larissacamargocc@gmail.com"><img src="https://img.shields.io/badge/Email-Fale%20comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://wa.me/5511982296475"><img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </div>
 
 ### 🚀 Projetos
@@ -36,3 +44,7 @@ Estudante de **Ciência da Computação**, atualmente no **2º semestre** e esta
 🌙 *Aprendendo, criando e evoluindo um passo de cada vez.*
 
 </div>
+
+
+
+
