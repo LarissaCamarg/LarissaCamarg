@@ -4,7 +4,7 @@
 
 Oi! Eu sou a Larissa 👋
 
-Estudante de **Ciência da Computação**, atualmente no **2º semestre** e estagiando como **desenvolvedora**. Estou construindo minha jornada na tecnologia, aprendendo na prática e evoluindo a cada projeto.
+Estudante de **Ciência da Computação**, atualmente no **2º semestre** e estagiária como **desenvolvedora**. Estou construindo minha jornada na tecnologia, aprendendo na prática e evoluindo a cada projeto.
 
 [![GitHub](https://img.shields.io/badge/GitHub-LarissaCamarg-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LarissaCamarg)
 
