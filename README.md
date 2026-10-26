@@ -33,12 +33,6 @@ Estudante de **Ciência da Computação**, atualmente no **2º semestre** e esta
   <a href="https://wa.me/5511982296475"><img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </div>
 
-### 🚀 Projetos
-
-*Meus projetos aparecerão aqui conforme eu for compartilhando meu trabalho.*
-
----
-
 <div align="center">
 
 🌙 *Aprendendo, criando e evoluindo um passo de cada vez.*
