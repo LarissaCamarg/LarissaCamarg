@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/larissa-camargo-purple-matrix.gif" alt="Banner roxo animado de chuva digital com o nome Larissa Camargo" width="100%">
+<img src="larissa-camargo-purple-matrix.gif" alt="Banner roxo animado de chuva digital com o nome Larissa Camargo" width="100%">
 
 ### Oi! Eu sou a Larissa 👋
 
