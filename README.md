@@ -25,6 +25,11 @@ Estudante de **Ciência da Computação**, atualmente no **2º semestre** e esta
   <img src="sql-icon.svg" height="48" alt="SQL" title="SQL">
 </div>
 
+### 📊 Linguagens nos meus repositórios
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaCamarg&layout=normal&langs_count=6&custom_title=Linguagens%20mais%20usadas&bg_color=0D0618&title_color=C084FC&text_color=E9D5FF&border_color=A855F7&hide_border=true" alt="Gráfico das linguagens mais usadas nos repositórios públicos da Larissa">
+</div>
 ### 📬 Contato
 
 <div align="left">
@@ -33,11 +38,18 @@ Estudante de **Ciência da Computação**, atualmente no **2º semestre** e esta
   <a href="https://wa.me/5511982296475"><img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </div>
 
+### 🚀 Projetos
+
+*Meus projetos aparecerão aqui conforme eu for compartilhando meu trabalho.*
+
+---
+
 <div align="center">
 
 🌙 *Aprendendo, criando e evoluindo um passo de cada vez.*
 
 </div>
+
 
 
 
